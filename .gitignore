@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# Geheimnisse
+.env
+*.key
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Persönliches
+MEIN_JOURNAL.md
+meine-loesungen/
+
+# Von den Beispielen erzeugte Daten
+_testdaten*/
+_uebung*/
+_loesung*/
+_daten*/
+_spielwiese/
+_testordner/
+_backups*/
+_aufraeumtest/
+_cache*/
+_export*/
+_excel*/
+_pdf*/
+_api_daten/
+_konfig*/
+_demo*/
+daten/
+berichte/
+*.log

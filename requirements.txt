@@ -1,0 +1,28 @@
+# Grundlagen (Modul 00-21): keine Pakete nötig - nur Python selbst 🎉
+
+# Ab Modul 18 - Tests
+pytest>=8.0
+
+# Ab Modul 19 - Linting & Formatierung
+ruff>=0.6
+
+# Ab Modul 22 - APIs
+requests>=2.31
+
+# Ab Modul 23 - Web-Scraping
+beautifulsoup4>=4.12
+
+# Ab Modul 24 - Excel
+openpyxl>=3.1
+
+# Ab Modul 25 - PDFs
+pypdf>=4.0
+
+# Optional: zum Erzeugen der Test-PDFs in Modul 25
+# reportlab>=4.0
+
+# Optional: für größere Datenmengen (Modul 24)
+# pandas>=2.2
+
+# Optional: für .env-Dateien (Modul 17/22)
+# python-dotenv>=1.0
